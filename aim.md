@@ -1,0 +1,1 @@
+To understand the wave attenuation pattern in, with vegetation and without vegetation based wave flume, and to analyse the effect of separation between piles, wave period and wave height on wave attenuation.
